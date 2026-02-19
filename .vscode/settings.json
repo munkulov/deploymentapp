@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net8.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/96dd8bdf-0c65-47c0-9d92-0eb246f3eb2d/resourceGroups/ps-fitness-windows_group/providers/Microsoft.Web/sites/appservice1course"
+}
